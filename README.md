@@ -1,7 +1,4 @@
-<H3>Name: A joans jay authers </H3>
-<H3>Reg No: 212221240019</H3>
-<H3>Ex. NO: 5</H3>
-<H3>DATE: 1/04/2024</H3>
+
 <H1 ALIGN =CENTER> Implementation of Kalman Filter</H1>
 <H3>Aim:</H3> To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
 <H3>Algorithm:</H3>
